@@ -32,7 +32,7 @@
  */
 
 body {
-  background-color: gray;
+  background-color: rgb(216, 216, 216);
 }
 
 html {
@@ -41,6 +41,10 @@ html {
 @media (min-width: 48em) {
   html {
     font-size: 14px;
+  }
+
+  .shadow {
+      box-shadow: 0px 0px 3px rgba(0,0,0,0.85);
   }
 
   .site-container {
@@ -70,13 +74,15 @@ html {
 
 
 .sidebar {
+  min-height: 100px;
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255,255,255,.5);
   background-color: #202020;
 }
-@media (min-width: 48em) {
+@media (min-width: 48em ) {
   .sidebar {
+    min-height: 800px;
     float:left;
     top: 0;
     left: 0;

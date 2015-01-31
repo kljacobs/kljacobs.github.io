@@ -7,11 +7,13 @@
           Keri L. Jacobs
         </a>
       </h2>
+      <a>{{ site.email }}</a>
     </div>
+    <br/>
     {{ site.description }}
 
     <nav class="sidebar-nav">
-      PAGES 
+      PAGES
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
 
       {% comment %}

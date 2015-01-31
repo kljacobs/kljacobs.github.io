@@ -7,13 +7,26 @@
 	
 	<div class='site-container'>
 	    {% include sidebar.html %}
-		
-	    <div class="content container">
-	      {{ content }}
-	    </div>
-
-
+	    <div class='shadow'>
+	    	<div class="content container" id='main-container'>
+	      	{{ content }}
+	    	</div>
+		</div>
 	</div>
 
   </body>
+  <script type="text/javascript">
+  	        var w = window,
+        d = document,
+        e = d.documentElement,
+        g = d.getElementsByTagName('body')[0];
+        var pageWidth = w.innerWidth || e.clientWidth || g.clientWidth;
+        var pageHeight = w.innerHeight|| e.clientHeight|| g.clientHeight;
+		
+		var totalHeight = document.getElementById('main-container').offsetHeight;
+		if (pageWidth > 760) {
+       		document.getElementsByClassName('sidebar')[0].style.height = (pageHeight > totalHeight ? pageHeight : totalHeight) + 'px';
+       		document.getElementById('main-container').style.height = (pageHeight > totalHeight ? pageHeight : totalHeight) + 'px';
+       	}
+  </script> 
 </html>
