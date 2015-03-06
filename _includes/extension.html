@@ -25,10 +25,12 @@
         <br/>
         <div class="row">
             <div class="col-sm-offset-4 col-sm-4 text-center">
-                  <span class="fa-stack fa-4x">
-                    <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                    <i class="fa fa-file-text-o fa-stack-1x fa-inverse"></i>
-                </span>
+                <a href="https://iastate.box.com/s/1w0i8vhhpikfqkqjfjsfob2039mspng9" target="_blank">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-file-text-o fa-stack-1x fa-inverse"></i>
+                    </span>
+                </a>
                 <h4>Co-op 101</h4>
                 <p class="text-muted">an overview of the cooperative structure and its function</p>
             </div>
@@ -43,7 +45,7 @@
                 {% for document in site.extension %}
                 <div class="col-sm-6 col-md-4 text-center">
                     <div class="team-member">
-                        <a href="{{document.link}}">
+                        <a href="{{document.link}}" target="_blank">
                         <span class="fa-stack fa-4x">
                             <i class="fa fa-circle fa-stack-2x text-primary document-circle"></i>
                             <i class="fa fa-file-text-o fa-stack-1x fa-inverse"></i>
@@ -51,7 +53,6 @@
                         </a>
                         <h4>{{ document.heading }}</h4>
                         <p class="text-muted">{{ document.secondary }}</p>
-                        <a href="{{document.link}}" target="_blank"><i class="fa fa-file-o"></i>  Article</a>
                     </div>
                 </div>
                 {% endfor %}
