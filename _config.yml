@@ -1,5 +1,4 @@
 url: http://kljacobs.github.io
-#baseurl: /agency-jekyll-theme/
 
 # Site settings
 title: Keri Jacobs
@@ -15,46 +14,6 @@ color:
 
 images:
   background: ../img/header-bg5.jpg
-
-extension:
-- heading: Cooperative Returns and Distribution
-  secondary: a basic treatment of how cooperatives generate and allocate returns
-  link: https://iastate.box.com/s/4tx4o2gcvkclw9aisnykwkz1alk37cbj
-
-- heading: Cooperative Financial Statements
-  secondary: an overview of the balance sheet, income statement and sources and uses of funds statements of cooperatives
-  link: https://iastate.box.com/s/0xr9g3e00z6dyri8tosb3lwk8x6k5oqe
-
-- heading: Cooperative Capital Structure, Equity Redemption and Taxation
-  secondary: a basic presentation of how cooperatives redeem equity and the tax and capital structure considerations
-  link: https://iastate.box.com/s/1w0i8vhhpikfqkqjfjsfob2039mspng9
-
-- heading: “Who Owns the Cooperative,”
-  secondary: Ag Decision Maker, February, 2014.
-  link: http://www.extension.iastate.edu/agdm/articles/others/JacFeb14.html
-
-- heading: “Cooperative Grain Margins and Implications of Crop Price Movements and market Inverses,”
-  secondary: Ag Decision Maker, December, 2014.
-  link: http://www.extension.iastate.edu/agdm/articles/others/JacDec14.html
-
-
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
-
-# Postal address (add as many lines as necessary)
-address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
 
 # Build settings
 markdown: kramdown
