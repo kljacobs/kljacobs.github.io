@@ -6,9 +6,9 @@ Today, while I remain involved and interested in research opportunities that dov
 
 **Peer Reviewed Publications**
 
-†Li, Z., K. Jacobs and G. Artz. “The Cooperative Capital Constraint Revisited,” forthcoming in Agricultural Finance Review.
+†Li, Z., K. Jacobs and G. Artz. “The Cooperative Capital Constraint Revisited,” forthcoming in *Agricultural Finance Review*.
 
-Jacobs, K., W. Thurman and M. Marra. 2014. <a href="https://iastate.box.com/s/k7aiq2pntsucrriibkit3yy0x3eik9d1" target="_blank">“The Effect of Conservation Priority Areas on Bidding Behavior in the Conservation Reserve Program,”</a> Land Economics, 90(1): 1 – 25.
+Jacobs, K., W. Thurman and M. Marra. 2014. <a href="https://iastate.box.com/s/k7aiq2pntsucrriibkit3yy0x3eik9d1" target="_blank">“The Effect of Conservation Priority Areas on Bidding Behavior in the Conservation Reserve Program,”</a> *Land Economics*, 90(1): 1 – 25.
 
 **Selected Research Reports and Other Publications**
 
