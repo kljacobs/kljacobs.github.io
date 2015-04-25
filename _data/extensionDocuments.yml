@@ -1,15 +1,25 @@
 # ORDER matters here
 categories: 
-  
-  # COOP 101
+
+  - heading: 'Extension Presentations, Articles, and Research Reports' 
   - docs:
-    - heading: CO-OP 101
+    
+    - heading: "The Capital Structures of Iowa's Grain and Agriculture Supply Firms: Are Cooperatives Different than Their Investor-Owned Counterpart?,"
+      secondary: Research Summary, April, 2015.
+      link: https://iastate.box.com/s/yctnw23n6dmds12p6jszyw84jeiycvi9
+
+    - heading: Co-op 101
       secondary: an overview of the cooperative structure and its function
       link: https://iastate.box.com/s/gavf8aapnm2x2olg360e6c974uzgun2u
-      center: true
 
-  - heading: 'COOPERATIVE RETURNS, FINANCE AND EQUITY MANAGEMENT' 
-    docs:
+    - heading: “Cooperative Grain Margins and Implications of Crop Price Movements and market Inverses,”
+      secondary: Ag Decision Maker, December, 2014.
+      link: http://www.extension.iastate.edu/agdm/articles/others/JacDec14.html
+      
+    - heading: “Who Owns the Cooperative,”
+      secondary: Ag Decision Maker, February, 2014.
+      link: http://www.extension.iastate.edu/agdm/articles/others/JacFeb14.html
+    
     - heading: Cooperative Returns and Distribution
       secondary: a basic treatment of how cooperatives generate and allocate returns
       link: https://iastate.box.com/s/4tx4o2gcvkclw9aisnykwkz1alk37cbj
@@ -21,11 +31,3 @@ categories:
     - heading: Cooperative Capital Structure, Equity Redemption and Taxation
       secondary: a basic presentation of how cooperatives redeem equity and the tax and capital structure considerations
       link: https://iastate.box.com/s/1w0i8vhhpikfqkqjfjsfob2039mspng9
-
-    - heading: “Who Owns the Cooperative,”
-      secondary: Ag Decision Maker, February, 2014.
-      link: http://www.extension.iastate.edu/agdm/articles/others/JacFeb14.html
-
-    - heading: “Cooperative Grain Margins and Implications of Crop Price Movements and market Inverses,”
-      secondary: Ag Decision Maker, December, 2014.
-      link: http://www.extension.iastate.edu/agdm/articles/others/JacDec14.html

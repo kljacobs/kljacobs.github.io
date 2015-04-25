@@ -635,6 +635,7 @@ section h3.section-subheading {
 
 .team-member {
     margin-bottom: 50px;
+    height: 250px;
     /*text-align: center;*/
 }
 
