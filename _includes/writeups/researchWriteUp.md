@@ -14,7 +14,7 @@ Jacobs, K., W. Thurman and M. Marra. 2014. <a href="https://iastate.box.com/s/k7
 
 (with Q. Weninger). “Nitrogen Management under Uncertainty: An Investigation of Farmers’ Decision Processes.” Agricultural Policy Review. Center for Agricultural and Rural Development, Iowa State University, Ames, Iowa. February 2015.
 
-(with C. Hart). <a href="http://www.extension.iastate.edu/agdm/articles/others/JacDec14.html" target="_blank">“Cooperative Grain Margins and Implications of Crop Price Movements and market Inverses.”</a> Ag Decision Make. Iowa State University, December 2014.
+(with C. Hart). <a href="http://www.extension.iastate.edu/agdm/articles/others/JacDec14.html" target="_blank">“Cooperative Grain Margins and Implications of Crop Price Movements and Market Inverses.”</a> Ag Decision Maker. Iowa State University, December 2014.
 
 <a href="http://www.extension.iastate.edu/agdm/articles/others/JacFeb14.html" target="_blank"> “Who Owns the Cooperative,”</a> Ag Decision Maker, Iowa State University, February, 2014.
 
