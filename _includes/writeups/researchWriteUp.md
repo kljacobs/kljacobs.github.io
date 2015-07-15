@@ -22,8 +22,8 @@ Jacobs, K., W. Thurman and M. Marra. 2014. <a href="https://iastate.box.com/s/k7
 
 (with L. Schulz). <a href="http://www.extension.iastate.edu/agdm/livestock/html/b1-60.html" target="_blank">“Managed Haying or Grazing of CRP Acres.”</a> Ag Decision Maker File B1-60. Iowa State University, September 2013.
 
-†Jacobs, K, “Perennial grasses for bioenergy in the central United States: Update on economics and research progress,” research report for the 2013 Integrated Crop Management Conference, Ames, Iowa, December 4 – 5, 2013.
+Jacobs, K, “Perennial grasses for bioenergy in the central United States: Update on economics and research progress,” research report for the 2013 Integrated Crop Management Conference, Ames, Iowa, December 4 – 5, 2013.
 
 Jacobs, K, “Understanding Local Level Supply Elasticities of Land Cover in the CRP,” research report for the National Pork Producers Council, July, 2013.
 
-†Jacobs, K, “Drivers and Barriers to Perennial Grass Production for Biofuels,” research report for the CenUSA Project, supported by Agriculture Food and Research Initiative Competitive Grant No. 2011-68005-30411 from the National Institute of Food and Agriculture, March 2013.
+Jacobs, K, “Drivers and Barriers to Perennial Grass Production for Biofuels,” research report for the CenUSA Project, supported by Agriculture Food and Research Initiative Competitive Grant No. 2011-68005-30411 from the National Institute of Food and Agriculture, March 2013.
