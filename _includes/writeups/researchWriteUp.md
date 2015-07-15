@@ -2,11 +2,13 @@ As a graduate student and early-career faculty, my research program was at the i
 
 Today, while I remain involved and interested in research opportunities that dovetail with agricultural production and producers’ land-use decisions, my research efforts have shifted to include the economics of cooperatives. The cooperative business model is a unique one with interesting implications for firms’ capital structure, ownership, and financing. These comprise the majority of my current and expected projects in the area of cooperatives. Exteral funing through grants, contracts, and financial gifts provides ongoing support to undergraduate and graduate students interested in understanding and investigating cooperatives.
 
-† Available upon request
+
 
 **Peer Reviewed Publications**
 
-†Li, Z., K. Jacobs and G. Artz. “The Cooperative Capital Constraint Revisited,” forthcoming in *Agricultural Finance Review*.
+Li, Z., K. Jacobs and G. Artz. “The Cooperative Capital Constraint Revisited.” *Agricultural Finance Review*, 75(2):253-266.
+
+Moore, K.J., S. Birrel, R.C. Brown, M.D. Casler, J.E. Euken, H.M. Hanna, D.J. Hayes, J.D. Hill, K.L. Jacobs, C.L. Kling, D. Laird, R.B. Mitchell, P.T. Murphy, D.R. Raman, C.V. Schwab, K.J. Shinners, K.P. Vogel, J.J. Volenec.  “Midwest Vision for Sustainable Fuel Production,” forthcoming in *Biofuels*.
 
 Jacobs, K., W. Thurman and M. Marra. 2014. <a href="https://iastate.box.com/s/k7aiq2pntsucrriibkit3yy0x3eik9d1" target="_blank">“The Effect of Conservation Priority Areas on Bidding Behavior in the Conservation Reserve Program,”</a> *Land Economics*, 90(1): 1 – 25.
 
