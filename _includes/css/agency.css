@@ -266,19 +266,6 @@ fieldset[disabled] .btn-xl.active {
     }
 }
 
-header {
-    text-align: center;
-    color: #fff;
-    background-attachment: scroll;
-    background-image: url({{site.images.background}});
-    background-position: center center;
-    background-repeat: none;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    background-size: cover;
-    -o-background-size: cover;
-}
-
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
@@ -301,7 +288,15 @@ header .intro-text .intro-heading {
     line-height: 50px;
 }
 
+header {
+    display: none; 
+}
+
 @media(min-width:768px) {
+    header {
+        display: block; 
+    }
+
     header .intro-text {
         padding-top: 300px;
         padding-bottom: 200px;
@@ -322,6 +317,19 @@ header .intro-text .intro-heading {
         font-size: 75px;
         font-weight: 700;
         line-height: 75px;
+    }
+
+    header {
+        text-align: center;
+        color: #fff;
+        background-attachment: scroll;
+        background-image: url({{site.images.background}});
+        background-position: center center;
+        background-repeat: none;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        background-size: cover;
+        -o-background-size: cover;
     }
 }
 
@@ -634,8 +642,7 @@ section h3.section-subheading {
 }
 
 .team-member {
-    margin-bottom: 50px;
-    height: 250px;
+    margin-bottom: 25px;
     /*text-align: center;*/
 }
 

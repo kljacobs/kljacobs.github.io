@@ -1,14 +1,16 @@
 <!-- Services Section -->
     <section id="research">
-        <div class="container">
             <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Research</h2>
+                <div class="container">
+                    <div class="col-lg-12 text-center">
+                        <h2 class="section-heading">Research</h2>
+                    </div>
                 </div>
             </div>
             <div class="row">
-                {% capture markdown %}{% include writeups/researchWriteUp.md %}{% endcapture %}
-                {{ markdown | markdownify }}
+                <div class="container">
+                    {% capture markdown %}{% include writeups/researchWriteUp.md %}{% endcapture %}
+                    {{ markdown | markdownify }}
+                </div>
             </div>
-        </div>
     </section>
