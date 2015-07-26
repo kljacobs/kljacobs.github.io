@@ -13,7 +13,7 @@ color:
   nav: 1591A6
 
 images:
-  background: ../img/header-bg5.jpg
+  background: ../img/binView.jpg
 
 # Build settings
 markdown: kramdown
