@@ -8,17 +8,19 @@ Today, while I remain involved and interested in research opportunities that dov
 
 Li, Z., K. Jacobs and G. Artz. “The Cooperative Capital Constraint Revisited.” *Agricultural Finance Review*, 75(2):253-266.
 
-Moore, K.J., S. Birrel, R.C. Brown, M.D. Casler, J.E. Euken, H.M. Hanna, D.J. Hayes, J.D. Hill, K.L. Jacobs, C.L. Kling, D. Laird, R.B. Mitchell, P.T. Murphy, D.R. Raman, C.V. Schwab, K.J. Shinners, K.P. Vogel, J.J. Volenec.  “Midwest Vision for Sustainable Fuel Production,” forthcoming in *Biofuels*.
+Moore, K.J., S. Birrel, R.C. Brown, M.D. Casler, J.E. Euken, H.M. Hanna, D.J. Hayes, J.D. Hill, K.L. Jacobs, C.L. Kling, D. Laird, R.B. Mitchell, P.T. Murphy, D.R. Raman, C.V. Schwab, K.J. Shinners, K.P. Vogel, J.J. Volenec. 2014.  “Midwest Vision for Sustainable Fuel Production,” *Biofuels*, 5(6):687-702.
 
 Jacobs, K., W. Thurman and M. Marra. 2014. <a href="https://iastate.box.com/s/k7aiq2pntsucrriibkit3yy0x3eik9d1" target="_blank">“The Effect of Conservation Priority Areas on Bidding Behavior in the Conservation Reserve Program,”</a> *Land Economics*, 90(1): 1 – 25.
 
 **Selected Research Reports and Other Publications**
 
-(with Q. Weninger). “Nitrogen Management under Uncertainty: An Investigation of Farmers’ Decision Processes.” Agricultural Policy Review. Center for Agricultural and Rural Development, Iowa State University, Ames, Iowa. February 2015.
+<a href="https://www.extension.iastate.edu/agdm/articles/others/JacMay15.html" target="_blank">"The Capital Structures of Iowa's Grain and Agricultural Supply Firms: Are Cooperatives Different than Their Investor-Owned Counterparts?" *Ag Decision Maker Newsletter*, Iowa State University, May 2015.
 
-(with C. Hart). <a href="http://www.extension.iastate.edu/agdm/articles/others/JacDec14.html" target="_blank">“Cooperative Grain Margins and Implications of Crop Price Movements and Market Inverses.”</a> Ag Decision Maker. Iowa State University, December 2014.
+(with Q. Weninger). “Nitrogen Management under Uncertainty: An Investigation of Farmers’ Decision Processes.” *Agricultural Policy Review*. Center for Agricultural and Rural Development, Iowa State University, Ames, Iowa. February 2015.
 
-<a href="http://www.extension.iastate.edu/agdm/articles/others/JacFeb14.html" target="_blank"> “Who Owns the Cooperative,”</a> Ag Decision Maker, Iowa State University, February, 2014.
+(with C. Hart). <a href="http://www.extension.iastate.edu/agdm/articles/others/JacDec14.html" target="_blank">“Cooperative Grain Margins and Implications of Crop Price Movements and Market Inverses.”</a> *Ag Decision Maker*. Iowa State University, December 2014.
+
+<a href="http://www.extension.iastate.edu/agdm/articles/others/JacFeb14.html" target="_blank"> “Who Owns the Cooperative,”</a> *Ag Decision Maker*, Iowa State University, February, 2014.
 
 (with L. Schulz). <a href="http://www.extension.iastate.edu/agdm/livestock/html/b1-60.html" target="_blank">“Managed Haying or Grazing of CRP Acres.”</a> Ag Decision Maker File B1-60. Iowa State University, September 2013.
 
