@@ -1,9 +1,21 @@
 # ORDER matters here
 categories: 
 
-  - heading: 'Extension Presentations' 
+  - heading: 'Extension Works' 
   - docs:
 
+    - heading: Consolidation of Iowa Cooperatives
+      secondary: Presentation to IIC's Winter Workshop, 2016
+      link: https://iastate.box.com/s/k054cdwev2kf951e85v52gmuwwq0s4nz
+
+    - heading: Update on Local Ag Cooperatives' Benchmarks
+      secondary: Presentation to IIC's Summer Workshop, 2015
+      link: https://iastate.box.com/s/gw1957ebgpipxbjav2weslcgv2f5ajxb
+      
+    - heading: Understanding Changes in Equity and Implications for Strategic Planning
+      secondary: Presentation to IIC's Summer Worshop, 2013
+      link: https://iastate.box.com/s/ne87t5h8so2ix7jinlig9k2xj4fv4g1v
+      
     - heading: Co-op 101
       secondary: an overview of the cooperative structure and its function
       link: https://iastate.box.com/s/gavf8aapnm2x2olg360e6c974uzgun2u
@@ -19,15 +31,3 @@ categories:
     - heading: Cooperative Capital Structure, Equity Redemption and Taxation
       secondary: a basic presentation of how cooperatives redeem equity and the tax and capital structure considerations
       link: https://iastate.box.com/s/1w0i8vhhpikfqkqjfjsfob2039mspng9
-
-    - heading: Update on Local Ag Cooperatives' Benchmarks
-      secondary: Presentation to IIC's Summer Workshop, 2015
-      link: https://iastate.box.com/s/gw1957ebgpipxbjav2weslcgv2f5ajxb
-      
-    - heading: Understanding Changes in Equity and Implications for Strategic Planning
-      secondary: Presentation to IIC's Summer Worshop, 2013
-      link: https://iastate.box.com/s/ne87t5h8so2ix7jinlig9k2xj4fv4g1v
-      
-    - heading: Consolidation of Iowa Cooperatives
-      secondary: Presentation to IIC's Winter Workshop, 2016
-      link: https://iastate.box.com/s/k054cdwev2kf951e85v52gmuwwq0s4nz
