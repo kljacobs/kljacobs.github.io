@@ -14,6 +14,8 @@ Jacobs, K., W. Thurman and M. Marra. 2014. <a href="https://iastate.box.com/s/k7
 
 **Selected Research Reports and Other Publications**
 
+<a href="https://www.extension.iastate.edu/agdm/crops/html/a1-27.html" target="_blank">"To Grow or not to Grow: A Tool for Comparing Returns to Switchgrass for Bioenergy with Annual Crops and CRP"</a> Ag Decision Maker File A1-27. Iowa State University, January 2016.
+
 <a href="https://www.extension.iastate.edu/agdm/articles/others/JacMay15.html" target="_blank">"The Capital Structures of Iowa's Grain and Agricultural Supply Firms: Are Cooperatives Different than Their Investor-Owned Counterparts?"</a> *Ag Decision Maker Newsletter*, Iowa State University, May 2015.
 
 (with Q. Weninger). “Nitrogen Management under Uncertainty: An Investigation of Farmers’ Decision Processes.” *Agricultural Policy Review*. Center for Agricultural and Rural Development, Iowa State University, Ames, Iowa. February 2015.
