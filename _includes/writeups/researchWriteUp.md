@@ -14,7 +14,7 @@ Jacobs, K., W. Thurman and M. Marra. 2014. <a href="https://iastate.box.com/s/k7
 
 **Selected Research Reports and Other Publications**
 
-<a href="https://www.extension.iastate.edu/agdm/crops/html/a1-27.html" target="_blank">"To Grow or not to Grow: A Tool for Comparing Returns to Switchgrass for Bioenergy with Annual Crops and CRP"</a> Ag Decision Maker File A1-27. Iowa State University, January 2016.
+(with R. Mitchell and C. Hart). <a href="https://www.extension.iastate.edu/agdm/crops/html/a1-27.html" target="_blank">"To Grow or not to Grow: A Tool for Comparing Returns to Switchgrass for Bioenergy with Annual Crops and CRP"</a> *Ag Decision Maker File A1-27*. Iowa State University, January 2016.
 
 <a href="https://www.extension.iastate.edu/agdm/articles/others/JacMay15.html" target="_blank">"The Capital Structures of Iowa's Grain and Agricultural Supply Firms: Are Cooperatives Different than Their Investor-Owned Counterparts?"</a> *Ag Decision Maker Newsletter*, Iowa State University, May 2015.
 
@@ -24,7 +24,7 @@ Jacobs, K., W. Thurman and M. Marra. 2014. <a href="https://iastate.box.com/s/k7
 
 <a href="http://www.extension.iastate.edu/agdm/articles/others/JacFeb14.html" target="_blank"> “Who Owns the Cooperative,”</a> *Ag Decision Maker*, Iowa State University, February, 2014.
 
-(with L. Schulz). <a href="http://www.extension.iastate.edu/agdm/livestock/html/b1-60.html" target="_blank">“Managed Haying or Grazing of CRP Acres.”</a> Ag Decision Maker File B1-60. Iowa State University, September 2013.
+(with L. Schulz). <a href="http://www.extension.iastate.edu/agdm/livestock/html/b1-60.html" target="_blank">“Managed Haying or Grazing of CRP Acres.”</a> *Ag Decision Maker File B1-60*. Iowa State University, September 2013.
 
 Jacobs, K, “Perennial grasses for bioenergy in the central United States: Update on economics and research progress,” research report for the 2013 Integrated Crop Management Conference, Ames, Iowa, December 4 – 5, 2013.
 
