@@ -6,6 +6,10 @@ Today, while I remain involved and interested in research opportunities that dov
 
 **Peer Reviewed Publications**
 
+Briggeman, B., K. Jacobs, P. Kenkel and G. McKee. "Current Trends in Cooperative Finance," forthcoming in *Agricultural Finance Review.*
+
+Artz, G., K. Jacobs and C. Boessen. "The Whole is Greater than the Sum: An Empirical Analysis of the Effect of Team Based Learning on Student Achievement," forthcoming in *NACTA Journal.*
+
 Li, Z., K. Jacobs and G. Artz. “The Cooperative Capital Constraint Revisited.” *Agricultural Finance Review*, 75(2):253-266.
 
 Moore, K.J., S. Birrel, R.C. Brown, M.D. Casler, J.E. Euken, H.M. Hanna, D.J. Hayes, J.D. Hill, K.L. Jacobs, C.L. Kling, D. Laird, R.B. Mitchell, P.T. Murphy, D.R. Raman, C.V. Schwab, K.J. Shinners, K.P. Vogel, J.J. Volenec. 2014.  “Midwest Vision for Sustainable Fuel Production,” *Biofuels*, 5(6):687-702.
@@ -13,6 +17,8 @@ Moore, K.J., S. Birrel, R.C. Brown, M.D. Casler, J.E. Euken, H.M. Hanna, D.J. Ha
 Jacobs, K., W. Thurman and M. Marra. 2014. <a href="https://iastate.box.com/s/k7aiq2pntsucrriibkit3yy0x3eik9d1" target="_blank">“The Effect of Conservation Priority Areas on Bidding Behavior in the Conservation Reserve Program,”</a> *Land Economics*, 90(1): 1 – 25.
 
 **Selected Research Reports and Other Publications**
+
+(with S. Agarwal, Q. Weninger and J. Sawyer). <a href="http://www.card.iastate.edu/ag_policy_review/display.aspx?id=49" target="_blank">"The Yield Response to Nitrogen: Subjective Belief Bias in Nitrogen Management." *Agricultural Policy Review.* Center for Agricultural and Rural Development, Iowa State University, Ames, Iowa. June 2016.
 
 (with R. Mitchell and C. Hart). <a href="https://www.extension.iastate.edu/agdm/crops/html/a1-27.html" target="_blank">"To Grow or not to Grow: A Tool for Comparing Returns to Switchgrass for Bioenergy with Annual Crops and CRP"</a> *Ag Decision Maker File A1-27*. Iowa State University, January 2016.
 
