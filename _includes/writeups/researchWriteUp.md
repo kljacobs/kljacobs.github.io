@@ -16,7 +16,7 @@ Moore, K.J., S. Birrel, R.C. Brown, M.D. Casler, J.E. Euken, H.M. Hanna, D.J. Ha
 
 Jacobs, K., W. Thurman and M. Marra. 2014. <a href="https://iastate.box.com/s/k7aiq2pntsucrriibkit3yy0x3eik9d1" target="_blank">“The Effect of Conservation Priority Areas on Bidding Behavior in the Conservation Reserve Program,”</a> *Land Economics*, 90(1): 1 – 25.
 
-**Selected Research Reports and Other Publications**
+**Other Research and Extension Publications**
 
 (with S. Agarwal, Q. Weninger and J. Sawyer). <a href="http://www.card.iastate.edu/ag_policy_review/display.aspx?id=49" target="_blank">"The Yield Response to Nitrogen: Subjective Belief Bias in Nitrogen Management."</a> *Agricultural Policy Review.* Center for Agricultural and Rural Development, Iowa State University, Ames, Iowa. June 2016.
 
