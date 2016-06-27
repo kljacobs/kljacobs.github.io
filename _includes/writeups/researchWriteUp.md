@@ -18,7 +18,7 @@ Jacobs, K., W. Thurman and M. Marra. 2014. <a href="https://iastate.box.com/s/k7
 
 **Selected Research Reports and Other Publications**
 
-(with S. Agarwal, Q. Weninger and J. Sawyer). <a href="http://www.card.iastate.edu/ag_policy_review/display.aspx?id=49" target="_blank">"The Yield Response to Nitrogen: Subjective Belief Bias in Nitrogen Management." *Agricultural Policy Review.* Center for Agricultural and Rural Development, Iowa State University, Ames, Iowa. June 2016.
+(with S. Agarwal, Q. Weninger and J. Sawyer). <a href="http://www.card.iastate.edu/ag_policy_review/display.aspx?id=49" target="_blank">"The Yield Response to Nitrogen: Subjective Belief Bias in Nitrogen Management.">/a> *Agricultural Policy Review.* Center for Agricultural and Rural Development, Iowa State University, Ames, Iowa. June 2016.
 
 (with R. Mitchell and C. Hart). <a href="https://www.extension.iastate.edu/agdm/crops/html/a1-27.html" target="_blank">"To Grow or not to Grow: A Tool for Comparing Returns to Switchgrass for Bioenergy with Annual Crops and CRP"</a> *Ag Decision Maker File A1-27*. Iowa State University, January 2016.
 
