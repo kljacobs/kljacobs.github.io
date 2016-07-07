@@ -1,6 +1,6 @@
-As a graduate student and early-career faculty, my research program developed at the intersection of conservation policy, agricultural production and land use decisions. My dissertation work, which sought to understand outcomes of the Conservation Reserve Program in terms of the political economy and also a farmer’s land-use decisions, was motivated by my familiarity with agriculture and also curiosity over the purported “inefficient” outcomes of conservation programs targeted at agricultural production. That focus led to grants and collaborative opportunities with scientists in other disciplines such as agronomy, agricultural and biosystems engineering, and animal science.
+As a graduate student and early-career faculty, my research program developed at the intersection of conservation policy, agricultural production and land use decisions. My dissertation work, which considered outcomes of the Conservation Reserve Program in terms of the political economy and also a farmer’s land-use decisions, was motivated by my familiarity with agriculture and also curiosity over the purported “inefficient” outcomes of conservation programs targeted at agricultural production. That focus led to grants and collaborative opportunities with scientists in other disciplines such as agronomy, agricultural and biosystems engineering, and animal science.
 
-Today, while I remain involved and interested in research that dovetails with agricultural production and producers’ land-use decisions, my research efforts have shifted to focus on cooperatives. The cooperative business model is a unique one with interesting implications for firms’ capital structure, ownership, and financing. These comprise the majority of my current and expected future research efforts.  Exteral funding through grants, contracts, and financial gifts provides ongoing support to undergraduate and graduate students interested in investigating the cooperative model.
+While I remain involved and interested in research that dovetails with agricultural production and producers’ land-use decisions, my research efforts have shifted to focus on cooperatives. I analyze trends in financial performance of cooperatives and explore the structural changes, prices, and market share in the markets where agricultural cooperatives compete.  Exteral funding through grants, contracts, and financial gifts provide ongoing support to undergraduate and graduate students interested in investigating cooperatives.
 
 
 
@@ -12,7 +12,7 @@ Briggeman, B., K. Jacobs, P. Kenkel and G. McKee. "Current Trends in Cooperative
 
 Artz, G., K. Jacobs and C. Boessen. "The Whole is Greater than the Sum: An Empirical Analysis of the Effect of Team Based Learning on Student Achievement," forthcoming in *NACTA Journal*.
 
-Li, Z., K. Jacobs and G. Artz. “The Cooperative Capital Constraint Revisited.” *Agricultural Finance Review*, 75(2):253-266.
+Li, Z., K. Jacobs and G. Artz. 2015. “The Cooperative Capital Constraint Revisited.” *Agricultural Finance Review*, 75(2):253-266.
 
 Moore, K.J., S. Birrel, R.C. Brown, M.D. Casler, J.E. Euken, H.M. Hanna, D.J. Hayes, J.D. Hill, K.L. Jacobs, C.L. Kling, D. Laird, R.B. Mitchell, P.T. Murphy, D.R. Raman, C.V. Schwab, K.J. Shinners, K.P. Vogel, J.J. Volenec. 2014.  “Midwest Vision for Sustainable Fuel Production,” *Biofuels*, 5(6):687-702.
 
