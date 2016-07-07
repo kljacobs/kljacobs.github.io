@@ -6,9 +6,11 @@ Today, while I remain involved and interested in research that dovetails with ag
 
 **Peer Reviewed Publications**
 
-Briggeman, B., K. Jacobs, P. Kenkel and G. McKee. "Current Trends in Cooperative Finance," forthcoming in *Agricultural Finance Review.*
+Rosburg, A., J. Miranowski and K. Jacobs. "Modeling Biomass Procurement Tradeoffs within a Cellulosic Biofuel Cost Model," forthcoming in *Energy Economics*.
 
-Artz, G., K. Jacobs and C. Boessen. "The Whole is Greater than the Sum: An Empirical Analysis of the Effect of Team Based Learning on Student Achievement," forthcoming in *NACTA Journal.*
+Briggeman, B., K. Jacobs, P. Kenkel and G. McKee. "Current Trends in Cooperative Finance," forthcoming in *Agricultural Finance Review*.
+
+Artz, G., K. Jacobs and C. Boessen. "The Whole is Greater than the Sum: An Empirical Analysis of the Effect of Team Based Learning on Student Achievement," forthcoming in *NACTA Journal*.
 
 Li, Z., K. Jacobs and G. Artz. “The Cooperative Capital Constraint Revisited.” *Agricultural Finance Review*, 75(2):253-266.
 
