@@ -22,13 +22,14 @@ Jacobs, K., W. Thurman and M. Marra. 2014. <a href="https://iastate.box.com/s/k7
 **Other Research and Extension Publications**
 
 *Publications / Articles*
+
 (with Z. Li and D. Hayes). <a href="http://www.card.iastate.edu/ag_policy_review/display.aspx?id=58" target=" blank"> “Forward Contracting by Iowa Corn Producers: Connecting Hedging with Price Movements.”<\a> *Agricultural Policy Review.*  Center for Agricultural and Rural Development, Iowa State University, Ames, Iowa.  Fall 2016.  
 
-Jacobs, Keri L.  “Co-ops Managing Through Low Margins,” Feedstuffs, August 8, 2016, 44.    
+“Co-ops Managing Through Low Margins,” Feedstuffs, August 8, 2016, 44.    
 
 (with S. Agarwal, Q. Weninger and J. Sawyer). <a href="http://www.card.iastate.edu/ag_policy_review/display.aspx?id=49" target="_blank"> "The Yield Response to Nitrogen: Subjective Belief Bias in Nitrogen Management."</a> *Agricultural Policy Review.* Center for Agricultural and Rural Development, Iowa State University, Ames, Iowa. Spring 2016.
 
-<a href="https://www.extension.iastate.edu/agdm/articles/others/JacMay15.html" target="_blank">"The Capital Structures of Iowa's Grain and Agricultural Supply Firms: Are Cooperatives Different than Their Investor-Owned Counterparts?"</a> *Ag Decision Maker Newsletter*, Iowa State University, May 2015.
+<a href="https://www.extension.iastate.edu/agdm/articles/jacobs/JacMay15.html" target="_blank">"The Capital Structures of Iowa's Grain and Agricultural Supply Firms: Are Cooperatives Different than Their Investor-Owned Counterparts?"</a> *Ag Decision Maker Newsletter*, Iowa State University, May 2015.
 
 (with Q. Weninger). <a href="http://www.card.iastate.edu/ag_policy_review/display.aspx?id=31" target=" blank"> “Nitrogen Management under Uncertainty: An Investigation of Farmers’ Decision Processes.”<\a> *Agricultural Policy Review*. Center for Agricultural and Rural Development, Iowa State University, Ames, Iowa. Winter 2015.
 
