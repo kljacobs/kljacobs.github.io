@@ -21,9 +21,7 @@ Jacobs, K., W. Thurman and M. Marra. 2014. <a href="https://iastate.box.com/s/k7
 
 **Other Research and Extension Publications**
 
-*Publications / Articles*
-
-(with Z. Li and D. Hayes). <a href="http://www.card.iastate.edu/ag_policy_review/display.aspx?id=58" target=" blank"> “Forward Contracting by Iowa Corn Producers: Connecting Hedging with Price Movements.”<\a> *Agricultural Policy Review.*  Center for Agricultural and Rural Development, Iowa State University, Ames, Iowa.  Fall 2016.  
+(with Z. Li and D. Hayes). <a href="http://www.card.iastate.edu/ag_policy_review/display.aspx?id=58" target=" blank">“Forward Contracting by Iowa Corn Producers: Connecting Hedging with Price Movements.”</a> *Agricultural Policy Review.*  Center for Agricultural and Rural Development, Iowa State University, Ames, Iowa.  Fall 2016.  
 
 “Co-ops Managing Through Low Margins,” Feedstuffs, August 8, 2016, 44.    
 
@@ -31,15 +29,16 @@ Jacobs, K., W. Thurman and M. Marra. 2014. <a href="https://iastate.box.com/s/k7
 
 <a href="https://www.extension.iastate.edu/agdm/articles/jacobs/JacMay15.html" target="_blank">"The Capital Structures of Iowa's Grain and Agricultural Supply Firms: Are Cooperatives Different than Their Investor-Owned Counterparts?"</a> *Ag Decision Maker Newsletter*, Iowa State University, May 2015.
 
-(with Q. Weninger). <a href="http://www.card.iastate.edu/ag_policy_review/display.aspx?id=31" target=" blank"> “Nitrogen Management under Uncertainty: An Investigation of Farmers’ Decision Processes.”<\a> *Agricultural Policy Review*. Center for Agricultural and Rural Development, Iowa State University, Ames, Iowa. Winter 2015.
+(with Q. Weninger). <a href="http://www.card.iastate.edu/ag_policy_review/display.aspx?id=31" target=" blank"> “Nitrogen Management under Uncertainty: An Investigation of Farmers’ Decision Processes.”</a> *Agricultural Policy Review*. Center for Agricultural and Rural Development, Iowa State University, Ames, Iowa. Winter 2015.
 
 (with C. Hart). <a href="http://www.extension.iastate.edu/agdm/articles/others/JacDec14.html" target="_blank">“Cooperative Grain Margins and Implications of Crop Price Movements and Market Inverses.”</a> *Ag Decision Maker*. Iowa State University, December 2014.
 
 <a href="http://www.extension.iastate.edu/agdm/articles/others/JacFeb14.html" target="_blank"> “Who Owns the Cooperative,”</a> *Ag Decision Maker*, Iowa State University, February, 2014.
 
 
-*Extension Information Files and Decision Tools*
-(with R. Martinez-Feria and M. Wiedenhoeft). <a href="https://www.extension.iastate.edu/agdm/crops/html/a1-24.html" target="_blank"> “Estimated Costs of Production for Winter Canola in Iowa.”<\a> Ag Decision Maker File A1-24.
+**Extension Information Files and Decision Tools**
+
+(with R. Martinez-Feria and M. Wiedenhoeft). <a href="https://www.extension.iastate.edu/agdm/crops/html/a1-24.html" target="_blank"> “Estimated Costs of Production for Winter Canola in Iowa.”</a> Ag Decision Maker File A1-24.
 
 (with R. Mitchell and C. Hart). <a href="https://www.extension.iastate.edu/agdm/crops/html/a1-27.html" target="_blank">"To Grow or not to Grow: A Tool for Comparing Returns to Switchgrass for Bioenergy with Annual Crops and CRP"</a> Ag Decision Maker File A1-27. Iowa State University, January 2016.
 
